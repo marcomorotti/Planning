@@ -1,0 +1,4 @@
+﻿dbo_AdminTable
+;DATABASE=.\DATA\Planning-Data.accdb
+dbo_AdminTable
+LoginID

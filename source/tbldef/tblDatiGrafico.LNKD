@@ -1,0 +1,4 @@
+﻿tblDatiGrafico
+;DATABASE=.\DATA\Planning-Data.accdb
+tblDatiGrafico
+Cod_art;+Periodo

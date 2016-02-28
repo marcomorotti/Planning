@@ -1,0 +1,16 @@
+﻿dbMemo "SQL" ="INSERT INTO tblImportSpedito ( COD_ART, DESCRIZIONE, DATABOLLA, QTA_OUT, LEAD_TI"
+    "ME, ROP, MAX_MINMAX_QUANTITY, ROQ, MAXIMUM_ORDER_QUANTITY, CS_CSC, CATEG_MERC, S"
+    "TATO, PESO_NETTO, PESO_LORDO, UpdateDate )\015\012VALUES (iCOD_ART, iDESCRIZIONE"
+    ", iDATABOLLA, iQTA_OUT, iLEAD_TIME, iROP, iMAX_MINMAX_QUANTITY, iROQ, iMAXIMUM_O"
+    "RDER_QUANTITY, iCS_CSC, iCATEG_MERC, iSTATO, iPESO_NETTO, iPESO_LORDO, iUpdateDa"
+    "te);\015\012"
+dbMemo "Connect" =""
+dbBoolean "ReturnsRecords" ="-1"
+dbInteger "ODBCTimeout" ="60"
+dbBoolean "OrderByOn" ="0"
+dbByte "Orientation" ="0"
+dbByte "DefaultView" ="2"
+dbBoolean "FilterOnLoad" ="0"
+dbBoolean "OrderByOnLoad" ="-1"
+Begin
+End

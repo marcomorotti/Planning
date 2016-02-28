@@ -1,0 +1,4 @@
+CREATE TABLE [tblDummy] (
+  [Text0] VARCHAR (50) CONSTRAINT [PrimaryKey] PRIMARY KEY  UNIQUE  NOT NULL ,
+  [NullID] LONG 
+)

@@ -1,0 +1,12 @@
+﻿dbMemo "SQL" ="UPDATE tblGiacenzaNovorex SET tblGiacenzaNovorex.QTA_OUT = [iQTA_OUT]\015\012WHE"
+    "RE (((tblGiacenzaNovorex.Cd_Art)=[iCod_Art]));\015\012"
+dbMemo "Connect" =""
+dbBoolean "ReturnsRecords" ="-1"
+dbInteger "ODBCTimeout" ="60"
+dbBoolean "OrderByOn" ="0"
+dbByte "Orientation" ="0"
+dbByte "DefaultView" ="2"
+dbBoolean "FilterOnLoad" ="0"
+dbBoolean "OrderByOnLoad" ="-1"
+Begin
+End

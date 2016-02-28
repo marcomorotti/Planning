@@ -1,0 +1,4 @@
+﻿tblCOrdersSpediz
+;DATABASE=.\DATA\Planning-Data.accdb
+tblCOrdersSpediz
+ID_COrders

@@ -1,0 +1,4 @@
+﻿tblFiliale
+;DATABASE=.\DATA\Planning-Data.accdb
+tblFiliale
+ID_Filiale

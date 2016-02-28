@@ -1,0 +1,15 @@
+﻿dbMemo "SQL" ="INSERT INTO tblImportGiacenza ( CD_ART, DESCR_ART, qt_giac, LEAD_TIME, ROP, MAX_"
+    "MINMAX_QUANTITY, ROQ, MAXIMUM_ORDER_QUANTITY, CS_CSC, CATEG_MERC, STATO, PESO_NE"
+    "TTO, PESO_LORDO, UpdateDate )\015\012VALUES (iCD_ART, iDESCR_ART, iqt_giac, iLEA"
+    "D_TIME, iROP, iMAX_MINMAX_QUANTITY, iROQ, iMAXIMUM_ORDER_QUANTITY, iCS_CSC, iCAT"
+    "EG_MERC, iSTATO, iPESO_NETTO, iPESO_LORDO, iUpdateDate);\015\012"
+dbMemo "Connect" =""
+dbBoolean "ReturnsRecords" ="-1"
+dbInteger "ODBCTimeout" ="60"
+dbBoolean "OrderByOn" ="0"
+dbByte "Orientation" ="0"
+dbByte "DefaultView" ="2"
+dbBoolean "FilterOnLoad" ="0"
+dbBoolean "OrderByOnLoad" ="-1"
+Begin
+End

@@ -1,0 +1,4 @@
+﻿dbo_SecuritylevelType
+;DATABASE=.\DATA\Planning-Data.accdb
+dbo_SecuritylevelType
+ID_SecurityLevel

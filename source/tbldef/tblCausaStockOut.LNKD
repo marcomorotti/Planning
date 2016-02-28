@@ -1,0 +1,4 @@
+﻿tblCausaStockOut
+;DATABASE=.\DATA\Planning-Data.accdb
+tblCausaStockOut
+ID_CausaStockOut

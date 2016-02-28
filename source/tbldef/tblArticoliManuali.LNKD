@@ -1,0 +1,4 @@
+﻿tblArticoliManuali
+;DATABASE=.\DATA\Planning-Data.accdb
+tblArticoliManuali
+ID_Articoli

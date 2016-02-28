@@ -1,0 +1,4 @@
+﻿tblConsumiCorrelati
+;DATABASE=.\DATA\Planning-Data.accdb
+tblConsumiCorrelati
+Cod_Art;+Anno;+Mese

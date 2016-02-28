@@ -1,0 +1,4 @@
+﻿tblPOrders
+;DATABASE=.\DATA\Planning-Data.accdb
+tblPOrders
+ID_POrders

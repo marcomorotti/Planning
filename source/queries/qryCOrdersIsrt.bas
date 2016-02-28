@@ -1,0 +1,18 @@
+﻿dbMemo "SQL" ="INSERT INTO tblCOrders ( NUMERO_DOC, COD_CLI, DS_RAG_SOC, RIGA_DOC, UTENTE, STAT"
+    "O, COD_ART, Descrizione, flag_stock_out, liv_urgenza, DATA_ORDINE, Data_Ord_cli,"
+    " Data_Prev_Cons, qta_ord_umv, qta_cons_umv, LEAD_TIME, ROP, MAX_MINMAX_QUANTITY,"
+    " ROQ, MAXIMUM_ORDER_QUANTITY, CS_CSC, UpdateDate )\015\012VALUES (iNUMERO_DOC, i"
+    "COD_CLI, iDS_RAG_SOC, iRIGA_DOC, iUTENTE, iSTATO, iCOD_ART, iDescrizione, iFlag_"
+    "stock_out, iLiv_urgenza, iDATA_ORDINE, iData_Ord_cli, iData_Prev_Cons, iqta_ord_"
+    "umv, iqta_cons_umv, iLEAD_TIME, iROP, iMAX_MINMAX_QUANTITY, iROQ, iMAXIMUM_ORDER"
+    "_QUANTITY, iCS_CSC, iUpdateDate);\015\012"
+dbMemo "Connect" =""
+dbBoolean "ReturnsRecords" ="-1"
+dbInteger "ODBCTimeout" ="60"
+dbBoolean "OrderByOn" ="0"
+dbByte "Orientation" ="0"
+dbByte "DefaultView" ="2"
+dbBoolean "FilterOnLoad" ="0"
+dbBoolean "OrderByOnLoad" ="-1"
+Begin
+End

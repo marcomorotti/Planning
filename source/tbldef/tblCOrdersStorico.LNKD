@@ -1,0 +1,4 @@
+﻿tblCOrdersStorico
+;DATABASE=.\DATA\Planning-Data.accdb
+tblCOrdersStorico
+ID_COrdersStorico

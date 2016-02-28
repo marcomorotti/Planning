@@ -1,0 +1,4 @@
+﻿tblOnHandsSp
+;DATABASE=.\DATA\Planning-Data.accdb
+tblOnHandsSp
+ID_OnHands

@@ -1,0 +1,4 @@
+﻿tblTopicsUsers
+;DATABASE=.\DATA\Planning-Data.accdb
+tblTopicsUsers
+pkeyQNumber

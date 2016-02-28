@@ -1,0 +1,4 @@
+﻿tblStatoArticolo
+;DATABASE=.\DATA\Planning-Data.accdb
+tblStatoArticolo
+ID_StatoArticolo

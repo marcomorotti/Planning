@@ -1,0 +1,4 @@
+﻿tblGiacenze
+;DATABASE=.\DATA\Planning-Data.accdb
+tblGiacenze
+Cod_Art;+Anno;+Mese

@@ -1,0 +1,4 @@
+﻿tblArticoli
+;DATABASE=.\DATA\Planning-Data.accdb
+tblArticoli
+ID_Articoli
